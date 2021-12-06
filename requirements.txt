@@ -1,6 +1,6 @@
 asgiref==3.4.1
 backports.entry-points-selectable==1.1.0
-cmake==3.21.4
+
 distlib==0.3.2
 Django==3.2.8
 django-crispy-forms==1.13.0
